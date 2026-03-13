@@ -17,3 +17,20 @@
 *.png
 *.jpeg
 *.mp4
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+*.egg-info/
+.eggs/
+
+# OS
+.DS_Store
+Thumbs.db
